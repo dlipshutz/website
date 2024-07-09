@@ -8,7 +8,7 @@ order: 4
 <h2>Bridge to Enter Advanced Mathematics</h2>
 
 <p>
-I sit on the local board of BEAM and also volunteer as a tutor. <a href="https://www.beammath.org/">BEAM></a> works with underserved students with high potential in mathematics to build realistic pathways for them to work in STEM fields.
+I sit on the local board of BEAM and also volunteer as a tutor. <a href="https://www.beammath.org/">BEAM</a> works with underserved students with high potential in mathematics to build realistic pathways for them to work in STEM fields.
 </p>
 
 <h2>Math CoOp</h2>
