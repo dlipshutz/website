@@ -1,0 +1,30 @@
+img {
+	object-fit: cover;
+}
+.publications{
+	list-style-type: none;
+	padding-left: 0;
+}
+.paper-title >a {
+	font-weight: 400;
+	font-size: 90%;
+	text-decoration: none;
+}
+.paper-info {
+	/* color: #4472CA; */
+	font-size: 70%;
+	padding-bottom: 1em;
+}
+.paper-note {
+	color: #eb0932;
+	font-size: 75%;
+	padding-bottom: 1em;
+	margin-top: -1em;
+}
+.refs {
+	font-size: 80%;
+}
+.refs > a {
+	font-weight: 400;
+	text-decoration: none;
+}

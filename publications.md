@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Publications
+permalink: /publications
 ---
 
 <p class="message">
