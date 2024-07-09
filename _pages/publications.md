@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: publications
-order: 3
+permalink: /publications
+order: 1
 ---
 
 {% assign years = site.data.publications | group_by: "year" %}

@@ -109,3 +109,43 @@
   ref: Lipshutz*, Windolf* et al. 2020
   tag: learning
   id: sfa
+- title: Stability of synchronous slowly oscillating periodic solutions for systems of delay differential equations with coupled nonlinearity
+  year: 2022
+  authors: Lipshutz D, Lipshutz RJ
+  journal: Journal of Dynamics and Differential Equations
+  url: https://doi.org/10.1007/s10884-021-09973-5
+- title: Customer-server population dynamics in heavy traffic
+  year: 2021
+  authors: Atar R, Karmakar P, Lipshutz D
+  journal: Mathematics of Operations Research
+  url: https://doi.org/10.1287/stsy.2021.0079
+- title: Sensitivity analysis for the stationary distribution of reflected Brownian motion in a convex polyhedral cone
+  year: 2021
+  authors: Lipshutz D, Ramanan K
+  journal: Mathematics of Operations Research
+  url: https://doi.org/10.1287/moor.2020.1076
+- title: A Monte Carlo method for estimating sensitivities of reflected diffusions in convex polyhedral domains
+  year: 2019
+  authors: Lipshutz D, Ramanan K
+  journal: Stochastic Systems
+  url: https://doi.org/10.1287/stsy.2019.0031
+- title: Pathwise differentiability of reflected diffusions in convex polyhedral domains
+  authors: Lipshutz D, Ramanan K
+  journal: Annales de l'Institut Henri Poincare, Probabilites et Statistiques
+  url: https://www.doi.org/10.1214/18-AIHP924
+- title: Exit time asymptotics for small noise stochastic delay differential equations
+  authors: Lipshutz D
+  journal: Discrete and Continuous Dynamical Systems
+  url: http://dx.doi.org/10.3934/dcds.2018135
+- title: Large deviations for the empirical measure of a diffusion via weak convergence methods
+  authors: Dupuis P, Lipshutz D
+  journal: Stochastic Processes and their Applications
+  url: https://doi.org/10.1016/j.spa.2017.09.020
+- title: On directional derivatives of Skorokhod maps in convex polyhedral domains
+  authors: Lipshutz D, Ramanan K
+  journal: Annals of Applied Probability
+  url: https://www.doi.org/10.1214/17-AAP1299
+- title: Existence, uniqueness, and stability of slowly oscillating periodic solutions for delay differential equations with nonnegativity constraints
+  authors: Lipshutz D, Williams RJ
+  journal: SIAM Journal on Mathematical Analysis
+  url: https://doi.org/10.1137/140980806
