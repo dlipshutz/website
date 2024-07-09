@@ -5,7 +5,8 @@ description:
 url:                 http://davidlipshutz.com
 baseurl:             ''
 paginate:            
-permalink:           
+permalink:     
+email:               lipshutz@gmail.com      
 
 # About/contact
 author:
