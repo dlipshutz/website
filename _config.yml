@@ -4,14 +4,12 @@ tagline:
 description:         
 url:                 http://davidlipshutz.com
 baseurl:             ''
-paginate:            
+paginate:            5
 permalink:     
 email:               lipshutz@gmail.com      
 
-# About/contact
-author:
-  name:              David Lipshutz
-  email:             lipshutz@gmail.com
+include:
+  - _pages
 
 # Gems
 plugins:
