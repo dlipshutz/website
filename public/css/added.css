@@ -3,15 +3,17 @@ img {
 }
 .publications{
 	list-style-type: none;
+	line-height: 100%;
 	padding-left: 0;
 }
 .paper-title >a {
 	font-weight: 400;
-	font-size: 90%;
+	font-size: 95%;
 	text-decoration: none;
 }
 .paper-info {
 	/* color: #4472CA; */
+	margin-top: .2em;
 	font-size: 70%;
 	padding-bottom: 1em;
 }
